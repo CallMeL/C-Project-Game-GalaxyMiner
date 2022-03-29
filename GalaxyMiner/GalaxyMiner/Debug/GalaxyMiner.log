@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(12,43): warning C4081: 应输入“newline”；找到“;”
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(177,17): warning C4101: “c”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(247,17): warning C4101: “temp”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(296,11): warning C4101: “fp”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(345,30): warning C4101: “cha”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(345,20): warning C4101: “txt”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(345,10): warning C4101: “temp”: 未引用的局部变量
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(887,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(888,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\陈汐\source\repos\GalaxyMiner\GalaxyMiner\源.cpp(1076,13): warning C4101: “err”: 未引用的局部变量
+  GalaxyMiner.vcxproj -> C:\Users\陈汐\source\repos\GalaxyMiner\Debug\GalaxyMiner.exe
