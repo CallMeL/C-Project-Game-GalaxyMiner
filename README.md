@@ -1,4 +1,4 @@
-# C-Project-Game-GoldenMiner-
+# C-Project-Game-GalaxyMiner
 This project is a Simple C GameProject using [EasyX Graphics Library](https://easyx.cn). 
 * Redesign the UI and stroy bacground, which is about the journey of [Voyager 2](https://zh.wikipedia.org/wiki/旅行者2号). 
 * Maintain the [golden miner's playing logic](https://www.xbox.com/en-US/games/store/golden-miner/bxghflrmq3q7)
